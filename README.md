@@ -22,6 +22,26 @@ In this module the user can cancel their name which is registered for the Book.
 ### SOFTWARE REQUIRMENTS:
 Star UML
 ### UML Diagrams:
+#### USE CASE DIAGRAM
+![Screenshot 2023-10-12 114433](https://github.com/Yamunaasri/Library-Management/assets/115707860/f7145a1f-74e4-47e1-b2fc-e3d811d133fc)
+
+#### SEQUENCE DIAGRAM
+![Screenshot 2023-10-12 114459](https://github.com/Yamunaasri/Library-Management/assets/115707860/6dbecd67-4b7d-48a8-bf77-fd83f74d350c)
+
+#### STATE CHART DIAGRAM
+![Screenshot 2023-10-12 114517](https://github.com/Yamunaasri/Library-Management/assets/115707860/8e43bae3-1a15-4976-be2e-1e24d28bf005)
+
+#### CLASS DIAGRAM
+![image](https://github.com/Yamunaasri/Library-Management/assets/115707860/af130d27-1416-4e98-bd52-df99ceffa731)
+
+#### ACTIVITY DIAGRAM
+![Screenshot 2023-10-12 114607](https://github.com/Yamunaasri/Library-Management/assets/115707860/b4540b1a-0ffc-4004-876a-d83dba2d0acf)
+
+#### COMMUNICATION DIAGRAM
+![Screenshot 2023-10-12 114628](https://github.com/Yamunaasri/Library-Management/assets/115707860/7a57f7f9-d1e8-40a5-a22d-f243782cc611)
+
+#### PACKAGE DIAGRAM
+![Screenshot 2023-10-12 114803](https://github.com/Yamunaasri/Library-Management/assets/115707860/1a08aaf8-77a4-4601-8418-a5cd88936fed)
 
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
